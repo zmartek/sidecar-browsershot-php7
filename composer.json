@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.4",
         "hammerstone/sidecar": "^0.3.7",
         "illuminate/contracts": "^8.0|^9.0",
         "spatie/browsershot": "^3.52",
